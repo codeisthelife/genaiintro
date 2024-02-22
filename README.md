@@ -77,11 +77,13 @@ Replace resume-qa-app:latest with any desired image name and tag.
 
 **Push the Image to a Container Registry**
 
-•	Choices: Docker Hub, AWS ECR, Google Container Registry, etc.
-    •	Log in to chosen registry.
-    •	Example (Docker Hub): 
+Choices: Docker Hub, AWS ECR, Google Container Registry, etc.
+    `Log in to chosen registry.`
+    `Example (Docker Hub)`
+
     ```
     docker tag resume-qa-app:latest your-dockerhub-username/resume-qa-app:latest 
+
     docker push your-dockerhub-username/resume-qa-app:latest 
     ```
 
@@ -146,33 +148,60 @@ b. Service (service.yaml)
 **Title: Know-Me-From-My-Resume Question-Answering System**
 
 ## Overview
+
 This project implements a system that allows users to ask questions about the contents of a text-based resume. It leverages the following key technologies:
-•	LangChain: For modular natural language processing (NLP) pipelines and interaction with language models.
-•	OpenAI API: To generate comprehensive and insightful answers.
-•	FAISS: For efficient similarity-based search of relevant resume sections.
-•	Gradio: To build a user-friendly web interface.
+
+```
+LangChain: For modular natural language processing (NLP) pipelines and interaction with language models.
+OpenAI API: To generate comprehensive and insightful answers.
+FAISS: For efficient similarity-based search of relevant resume sections.
+Gradio: To build a user-friendly web interface.
+```
 
 ## Project Structure
-•	`ingest_data.py`:
-    o	Loads a resume file, default is text. (supports PDF, Word, Plain Text).
-    o	Splits the resume into manageable chunks for processing.
-    o	Generates text embeddings using OpenAI's Embeddings API.
-    o	Creates a FAISS vector store for fast similarity search.
-•	`app.py`:
-    o	Provides a Gradio web interface for user interaction with the system.
-    o	Handles the OpenAI API key setup.
-    o	Implements the core conversational question-answering logic.
-•	`query_data.py`
-    o	Defines functions to load the FAISS index.
-    o	Provides different question-answering models based on LangChain: 
-        	`basic`: Simple question-answering chain.
-        	`with_sources`: Retrieves and displays relevant source sections of the resume.
-        	`custom_prompt`: Employs a tailored prompt to guide the language model for HR-focused answers.
-        	`condense_prompt`: Handles follow-up questions gracefully
-•	`cli_app.py`
-    o	Offers a simple command-line interface for the user to select a QA model and ask questions.
-•	`requirements.txt`
-    o	Lists the necessary Python dependencies.
+
+`ingest_data.py`:
+
+        ```
+        Loads a resume file, default is text. (supports PDF, Word, Plain Text).
+        Splits the resume into manageable chunks for processing.
+        Generates text embeddings using OpenAI's Embeddings API.
+        Creates a FAISS vector store for fast similarity search.
+        ```
+
+`app.py`:
+
+        ```
+        Provides a Gradio web interface for user interaction with the system.
+        Handles the OpenAI API key setup.
+        Implements the core conversational question-answering logic.
+        ```
+
+`query_data.py`
+    
+        ```
+        Defines functions to load the FAISS index.
+        Provides different question-answering models based on LangChain:
+        ```
+
+            ```
+            `basic`: Simple question-answering chain.
+            `with_sources`: Retrieves and displays relevant source sections of the resume.
+            `custom_prompt`: Employs a tailored prompt to guide the language model for HR-focused answers.
+            `condense_prompt`: Handles follow-up questions gracefully
+            ```
+
+`cli_app.py`
+
+        ```
+        Offers a simple command-line interface for the user to select a QA model and ask questions.
+        ```
+
+`requirements.txt`
+
+        ```
+        Lists the necessary Python dependencies.
+        ```
 
 ## How to Use
 
@@ -181,20 +210,29 @@ Run the Gradio Application
 Run:	`python app.py`
 
 This will launch a web interface in your browser.
-•	Paste your OpenAI API key.
-•	Start asking questions about the resume.
+
+    ```
+    Paste your OpenAI API key.
+    Start asking questions about the resume.
+    ```
 
 ## Optional: Command-Line Interface
 
 Run:	`python cli_app.py`
 
 Example Questions
-•	"What is ROBINSON LUCY's top skills?"
-•	"Summarize ROBINSON LUCY's experience in fraud detection."
-•	"Did ROBINSON LUCY work at [Company Name]?"
+
+    ```
+    "What is ROBINSON LUCY's top skills?"
+    "Summarize ROBINSON LUCY's experience in fraud detection."
+    "Did ROBINSON LUCY work at [Company Name]?"
+    ```
 
 ## Future Improvements
-•	Add support for uploading resumes directly through the web interface.
-•	Explore more advanced question-answering techniques and language models.
-•	Enable customization of prompts to target specific job roles and industries.
-•	Setting up monitoring tools like Prometheus and Grafana
+
+    ```
+    Add support for uploading resumes directly through the web interface.
+    Explore more advanced question-answering techniques and language models.
+    Enable customization of prompts to target specific job roles and industries.
+    Setting up monitoring tools like Prometheus and Grafana
+    ```
