@@ -1,9 +1,15 @@
 # Gen-AI-Intro(Know-Me-From-My-Resume)
 
 Notes: 
-`This uses my resume data but any person or entiry identifiers are replaced with dummy values.`
-`For optimal results, provide a detailed, well-structured resume as the input document.`
-`The project assumes a resume named "myresume.txt" is located in the project's root directory. Modify ingest_data.py if you need to load resumes differently.`
+
+```
+PYTHON VERSION = 3.12.2
+
+This uses my resume data but any person or entiry identifiers are replaced with dummy values.
+For optimal results, provide a detailed, well-structured resume as the input document.
+The project assumes a resume named "myresume.txt" is located in the project's root directory. 
+Modify ingest_data.py if you need to load resumes differently.
+```
 
 **Quick Start**
 
@@ -29,8 +35,10 @@ Custom prompts are used to ground the answers myresume text file.
 
 ## Run Application
 
+```
 Run: `python app.py` from the command line to interact with your ChatGPT for your data.
 Run: `python cli_app.py` to run application in a terminal window instead of a browser.
+```
 
 # Docker Kubernetes Containerization
 High-Level Steps: I won’t go into complete production grade setup (comes with significant local setup efforts or cost at cloud), but this should be sufficient to start, this is highly customizable.
