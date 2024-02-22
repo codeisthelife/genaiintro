@@ -1,0 +1,271 @@
+Resume text (without any personal information):
+
+ROBINSON LUCY
+Phone: 00010001 (Teams/Zoom, WhatsApp:00020002), email: robinson.lucy@na.in, LinkedIn, Location: Singapore
+#softwaredevelopment #datascience #generativeai #ai #machinelearning #managment #python #cicd #mlops
+
+
+SUMMARY:
+Robinson Lucy is a seasoned professional with substantial industry experience, business acumen, software development expertise (SDLC), and proficiency in Artificial Intelligence, Data Science, and Machine Learning. He possesses strong leadership and management skills, complemented by excellent communication abilities and technical prowess. He is results-driven, valuing ‘outcomes’ over outputs, and is self-motivated and highly focused. He effectively communicates high-level goals and initiatives to his team, inspiring them to achieve their utmost potential. His work in Data Science, Machine Learning, and Artificial Intelligence, particularly with Generative AI, is empowering teams to build capabilities to plan, architect, and implement products and solutions aligned with enterprise Artificial Intelligence (AI) strategies. Leveraging his extensive industry-relevant experience, he provides technical expertise, guidance, and governance to product teams, fostering seamless collaboration between cross-functional teams and vendors. His responsibilities extend to budgeting and resource management. He shares learning resources in online community. He loves meaningful discussions.
+
+Top skills:
+Management (People and Team), Data Science, Machine Learning, Generative AI, Artificial Intelligence (AI), Python, Software Development, AWS GCP Azure Cloud Development and Infrastructure, Software Engineering and Test Automation
+
+Languages known:
+Chinese: Beginner, English: Native and Hindi: Native
+	
+Education:
+1. Swiss School of Business and Management - Global Doctor of Business Administration Program, Artificial Intelligence – April 2021 – June 2024
+2. Liverpool John Moores University - Master of Science - MS, Machine Learning and Artificial Intelligence – May 2019 – May 2021
+3. International Institute of Information Technology Bangalore - Postgraduate Degree, Machine Learning and Artificial Intelligence – May 2019 – June 2020
+4. University of Rajasthan - Bachelor's Degree, Information Technology – July 2001 – June 2005
+5. University of Washington - IT Project Management, Project Management – January 2018 – December 2018
+6. Microsoft - Computer science with Python, Computer Programming – January 2019 – December 2019
+
+WORK EXPERIENCE: 
+
+Company Name: Company1
+Work Duration: May 2019 – January 2024
+Type: Permanent, Full-Time
+Title: (Senior) Data Scientist: Assistant Vice President (AVP)
+Location: Singapore
+
+Tasks and responsibilities:
+1. Develop and implement machine learning models and algorithms.
+2. Conduct in-depth analysis of large datasets and run machine learning tests and experiments.
+3. Design, develop and transform data science prototypes in to real products.
+4. Organize, interpret, and visualize data and communicate results to stakeholders.
+5. Advocacy and thought leadership for innovation, design thinking, secure development and business transformation.
+6. Identify areas for business improvement and use data modelling to support strategies.
+7. Identify new technological directions in artificial intelligence, machine learning, generative ai and software developments to provide a way to incorporate newer ways while maintaining cost effectiveness.
+8. Lead machine learning model development projects.
+9. Design, build and maintain forecast models, interpret results to the Leadership Team.
+10. Develop statistical and econometric models based on practical experience.
+11. Use of Logistic regression, Ordinal regression, Time series forecasting, Random Forest, Decision Tree Multivariate and Cluster Analysis
+12. Use of Multivariate data analysis and factor reduction techniques.
+13. Use of supervised and unsupervised learning.
+14. Practical experience in Statistics, Correlation, Variance Analysis, Regression (Simple and Multiple) and Hypothesis Testing.
+15. Apply coding and programmatic skills to projects. Pair programming and TDD, happy coding.
+16. Project and program management experience in Agile and Waterfall.
+17. Stay updated with the latest developments in the field.
+18. Contribute to advancements in artificial intelligence.
+19. Ensure data privacy and maintain ethical standards.
+20. Implement security measures.
+21. Ensure data sanity.
+22. Implement MLOps practices.
+23. Collaborate with various teams.
+24. Manages team of experts.
+25. Work with cross-functional teams and vendors for implementation of strategic plans.
+
+Time allocation:
+1. Business Understanding (15-20%)
+2. Data Understanding and Preparation (10-20%)
+3. Modelling and Coding (20-60%)
+4. Evaluation and Optimization (5-15%)
+5. Deployment and MLOps (5-10%)
+6. Meetings and Collaboration (10-40%)
+7. Evangelism (5-15%)
+8. Documentation (10-15%)
+
+Tech stack:
+
+OpenAI, Azure OpenAI, ChatGPT Enterprise, Hugging Face, LLaMA, Claude, Anthropic, OpenText, Amazon SageMaker, AWS Lambda and Snowflake, Google Big Query, Data Lake and Data Proc, Vertex and Unified Data Pipelines, KubeFlow, IBM OpenShift, Microsoft Azure Big Data, AutoML, TensorFlow Extended (TFX), TensorFlow, Prediction API, App Engine, Apache Spark, Hadoop Big Data, Python, FastAPI, R, SQL, PyTorch, Scikit-learn, Keras, Pandas, NumPy, Matplotlib, Jupyter Notebook, VS Code, Tableau, PowerBI, Excel, NextJS, Java Script.
+
+Work accomplished:
+
+1. Development of a platform for entire investment life cycle across the whole spectrum of private market investments leveraging cloud technology, a data analytics search engine platform, and event-driven and API-centric microservice architecture to meet the varied and complex requirements of private market in an effective, efficient, and scalable manner.
+2. Development of a Generative Al (LLM: Large Language Model with RAG: Retrieve, Adapt, Generate approach) based platform allows quick search, question answer, comparison, and decision review from documents, clauses, notes, and unstructured emails.
+3. Development and integration of a product based on deep learning models in machine learning (ML) allows reduction of operational cost (MLOps, Cloud-native), helps in decision making and detection of anomalies in data irregularities. This helped in better compliance while improving revenue owing to better productivity and improved user experience. It results in reduced operational cost.
+4. Development and integration of intelligent process aware artificial intelligence NLP (natural language processing) chat-bot product results in enhanced business productivity. A decision-making helper system to aid in approval / rejection. The helper system is trained on master data and ingest new data daily. This helps it self-correct its bias. It results in precise decision making and improved process automation.
+5. Development and integration of machine learning (Ensemble, Reinforcement Learning ML) models to develop and automate financial risk management process and key use-cases such as flagging incomplete compliance, claim analytics, anomalies and risk. It results in improved risk management.
+6. Development of large language models (LLMs) Generative Al Python package to streamline, standardize, and integrate various online Al services in a safe, secure way to quickly develop, iterate and productionize Generative Al based applications.
+7. Development and integration of automated static code scan results-based deployment to production environment using enterprise DevOps platform with best-in-class DevSecOps practices. This guarantees consistent and standard code quality, security and coding practices across organisation.
+
+Skills: 
+
+Data Science, Large Language Models (LLM), Generative AI, Natural Language Processing (NLP), Artificial Intelligence (AI), Machine Learning, MLOps, Deep Learning, PyTorch, CUDA, Pytest, ETL, Transformers, Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services(AWS), Java Script, Python (Programming Language), T-SQL, Bash, Software Development, Object-Oriented Programming(OOP), Program Management, Project Management, Agile Methodologies, Scrum, Business Analysis, Agile & Waterfall Methodologies, React.js, AWS Lambda, Hadoop, Web Services and APIs, Fast API, REST APIs, JIRA, Microsoft Excel, Microsoft PowerPoint, Continuous Integration and Continuous Delivery (CI/CD), Cyber Security, Linux, Unix, Docker, kubernetes, Jupyter, Conda, VS Code and Git.
+
+
+Company Name: Company2
+Work Duration: August 2015-May 2019
+Type: Direct Contract, Full-Time
+Title: Senior Software Developer
+Location: Singapore
+
+Robinson worked in a fast-paced large cross functional agile team in capacity of senior software developer (with 30% technical project manager) to develop and guide development of cutting-edge trading-clearing engine TitanOTC and TitanOTCPro for customers utilising platform across the world. His work resulted in significant savings in operational cost and paves way for straight through processing. He also co-steered architecture design and development and test automation framework design. 
+This application includes Confirmations, Trading and Executions, Clearing, Settlements, Reference Data, Reconciliations, Regulatory Reporting for OTC, and Clearing. He also created the FIX specification document. This application is the main order booking and clearing platform for company in OTC space.
+
+Skills: 
+
+Agile & Waterfall Methodologies, Pytest, Software Development, SDLC, Bash, Program Management, Agile Methodologies, Scrum, Test Automation, Machine Learning, Deep Learning, VeriFIX, JavaScript, Python (Programming Language), FastAPI, Linux, Amazon Web Services (AWS), Java, DevOps, Performance Engineering, Continuous Integration and Continuous Delivery (CI/CD)
+
+Work accomplished:
+
+1. Development and support of Automated OTC, Clearing and Trading work-flows to reduce cost significantly and improve the turnaround time of processing and completions.
+2. Develop Trading-Clearing Engine: Led the development of a cutting-edge trading clearing engine in OTC space.
+3. Implement Machine Learning Model: Implemented the first deep learning-based machine learning model to comb out anomalies in incoming data feeds.
+4. Co-steer Architecture Design and Development: Co-steered the design and development of the system’s architecture. Introduced Zookeeper for always on availability.
+5. Test Automation Framework: Co-steered the design and development of a test automation framework.
+6. Implement FIX Protocol: Implemented the Financial Information Exchange (FIX) protocol for easier straight-through processing in trading and clearing.
+7. Develop Web, Thick Client, Mobile, and API Interfaces: Contributed to web, thick client, mobile, and API interfaces for the application.
+8. Develop Modules for the Application: Developed modules for Confirmations, Trading and Executions, Clearing, Settlements, Reference Data, Reconciliations, Regulatory Reporting for OTC, and Clearing.
+9. Create FIX Specification Document: Created the FIX specification document.
+10. Project Management: Managed 30% of the technical aspects of the project.
+11. Team Management: Managed team of six.
+
+Company Name: Company3
+Work Duration: July 2014-July 2015
+Type: Contract, Full-Time
+Title: Software Developer
+Location: Singapore
+
+Robinson worked in the capacity of software developer to develop and manage middleware integration with enterprise CICD DevOps setup in DBS DigiBank platform for banking and payment processing system. He also co-steered continuous test automation, performance and non-functional testing for banking and payment processing system.
+This application is used in Retail, Core and Private banking. This is the main application and act as a backbone to all business in the bank. It deals with many incoming and outgoing systems and streams. It has iOS/Android apps and web-based platform.
+
+Skills: 
+
+Agile & Waterfall Methodologies, Software Development, SDLC, Object-Oriented Programming (OOP), Agile Methodologies, Project Management, Performance Tuning, Scrum, Test Automation, Microsoft SQL Server, T-SQL, JavaScript, Python (Programming Language), Java, DevOps, Performance Engineering, Microsoft Project
+
+Work accomplished:
+
+1. Develop Middleware: Design and develop middleware to facilitate communication and data management between different applications within the banking system.
+2. Integrate DevOps: Integrate the developed middleware with the enterprise’s Continuous Integration/Continuous Deployment (CICD) DevOps setup.
+3. Manage DevOps Setup: Manage and maintain the CICD DevOps setup to ensure smooth deployment and operation of applications.
+4. Automate Testing: Develop and implement automated testing frameworks to ensure the functionality and reliability of the banking and payment processing system.
+5. Performance profiling: Conduct automated performance profiling to evaluate the system’s response time, speed, stability, and scalability under different workloads.
+6. Non-Functional Testing: Carry out non-functional testing, such as security testing, usability testing, and compatibility testing, to ensure the system meets all necessary requirements.
+7. System Integration: Work on integrating the banking and payment processing system with various incoming and outgoing systems and streams.
+8. Develop API Platform: Design and develop a API based platform for the banking system.
+9. Maintain System Backbone: Maintain and manage the main application that acts as the backbone for business operations in the bank.
+10. Team Management: Managed a team of eight.
+
+Company Name: Company4
+Work Duration: November 2010-June 2014
+Type: Permanent, Full-Time
+Title: Business Analyst (Level 4)
+Location: Singapore
+
+Robinson worked in the capacity of business analyst and performance test automation lead for business analysis, project management, functional use cases and modelling, test automation, performance testing, and non-functional testing using enterprise CICD DevOps setup in Collateral Management platform (Collateral Management System) used by worldwide clients and internal staff. He was instrumental in setting up Testing Center of Excellence (TCoE).
+This in-house application is used in investment banking domain for Exposure Management, Collateral Management, Electronic Messaging, Segregated IA and Client Valuation through straight through processing.
+
+Skills: 
+
+Agile & Waterfall Methodologies, Business Analysis, Agile Methodologies, Project Management, Performance Tuning, Scrum, Test Management, Microsoft SQL Server, T-SQL, JavaScript, Python (Programming Language), DevOps, Performance Engineering, Continuous Integration and Continuous Delivery (CI/CD), Microsoft Project
+
+Work accomplished:
+
+1. Business Analysis: Conducted business analysis to understand the needs and requirements of the business and clients.
+2. Project Management: Managed the project to ensure that it is completed on time and within budget.
+3. Functional Use Cases and Modeling: Created functional use cases and models to represent the system’s behavior and data flow.
+4. Test Automation: Developed and implemented automated testing frameworks to ensure the functionality and reliability.
+5. Performance Testing: Conducted performance testing to evaluate the system’s response time, speed, stability, and scalability under different workloads.
+6. Non-Functional Testing: Carried out non-functional testing, such as security testing, usability testing, and compatibility testing, to ensure the system meets all necessary requirements.
+7. evOps Integration: Integrated the enterprise’s Continuous Integration/Continuous Deployment (CICD) DevOps setup with the testing frameworks.
+8. Setting up TCoE: Instrumental in setting up the Testing Center of Excellence (TCoE) to improve the quality and efficiency of testing.
+9. System Integration: Worked on integrating the Collateral Management System with various incoming and outgoing systems and streams.
+10. Maintain System Backbone: Maintained and managed underlying production system.
+11. Team Management: Managed a team of five.
+
+Company Name: Company5
+Work Duration: July 2009-November 2010
+Type: Permanent, Full-Time
+Title: Information Technology Team Lead
+Location: Mumbai, India
+
+Robinson worked in the capacity of team lead for development of E-commerce, automated taxation and clearing system used by worldwide clients and internal staff.
+He also co-managed continuous test automation, performance and non-functional testing aspect of systems. It was one of the greatest responsibilities he had at early stage of his career.
+
+Skills: 
+
+Business Analysis, Software Development, SDLC, Web Services, Project Management, Performance Tuning, Test Automation, Test Management, Microsoft SQL Server, T-SQL, Git, JavaScript, Linux, REST APIs, Java, Performance Engineering
+
+Work accomplished:
+
+1. E-commerce System Development: Led the development of an E-commerce system to facilitate online transactions.
+2. Automated Taxation System Development: Developed and maintained core parts of automated taxation system to calculate and apply taxes on transactions.
+3. Clearing System Development: Developed and maintained core parts of a clearing system to settle transactions.
+4. Team Management: Managed a team of junior developers, guiding them through the development process and ensuring they meet project deadlines.
+5. Test Automation: Co-managed the development and implementation of automated testing frameworks to ensure the functionality and reliability of the systems.
+6. Performance Testing: Conducted performance testing to evaluate the systems’ response time, speed, stability, and scalability under different workloads.
+7. Non-Functional Testing: Carried out non-functional testing, such as security testing, usability testing, and compatibility testing, to ensure the systems meet all necessary requirements.
+8. Client Interaction: Interacted with worldwide clients and internal staff to understand their needs and requirements, and ensured the systems meet these needs.
+9. System Maintenance: Oversaw the maintenance of the systems to ensure they continue to function effectively and efficiently.
+10. Professional Growth: Took on significant responsibilities at an early stage in his career, contributing to his professional growth and development.
+
+Company Name: Company6
+Work Duration: January 2006-June 2009
+Type: Permanent, Full-Time
+Title: Software Development Consultant
+Location: Mumbai, India
+
+Robinson worked in the capacity of Software Development Consultant in Global Consulting Practice group to understand, advise and provide solution for software performance problems experienced by clients. Often, this is accomplished using proof of concept studies, business case development and working side by side with client software engineering team to develop and implement desired solution.
+
+Skills: 
+
+Software Development, SDLC, Project Management, Performance Tuning, Test Automation, Microsoft SQL Server, T-SQL, JavaScript, Java, Dot Net, C-Sharp (C#), Process Improvement, Performance Engineering, Microsoft Project
+
+Work accomplished:
+1. Client Consultation: Consulted with clients to understand their software performance problems.
+2. Performance Analysis: Analyzed the performance of the client’s software to identify bottlenecks and areas for improvement.
+3. Solution Advising: Advised clients on potential solutions to their software performance problems.
+4. Proof of Concept Studies: Conducted proof of concept studies to demonstrate the feasibility of the proposed solutions.
+5. Business Case Development: Developed business cases to justify the implementation of the proposed solutions.
+6. Collaboration with Client’s Team: Worked side by side with the client’s software engineering team to develop the solution.
+7. Solution Implementation: Assisted in the implementation of the solution to ensure it is done correctly and efficiently.
+8. Performance Testing: Conducted performance testing on the implemented solution to ensure it has improved the software’s performance.
+9. Client Training: Trained the client’s team on how to maintain and further improve the performance of their software.
+10. Post-Implementation Support: Provided post-implementation support to ensure the solution continues to perform well.
+11. T-SQL Server and Dot Net Technology Evaluation: SQL server - Partition logic, filtered indexing, compression etc for upcoming SQL server release. Dot Net technology - Compare and evaluate performance of different technologies available in upcoming Net framework and C# language - Array copy mechanism, String concatenation, Boxing and without boxing, Late binding and early binding etc.
+12. Performance Tuning of New Architecture: Leading Stock Exchange changed their architecture and now using a single Database for all transaction processing. Understand new architecture and internal processing and communication of different components. Propose and explain the custom build stock transaction generator architecture and functionality. РОС. Assist onsite team to develop, test and go-live.
+13. Major Retailer (Store and Online), New York USA: Client was facing performance and scalability issues with the Sourcing Application (OLTP .Net thick client server-based application). I conducted a performance review and optimization of Sourcing application to locate application performance bottleneck and provide recommendations to alleviate the same. Review of architecture and design with respect to performance. Code profiling to identify application bottlenecks. Production monitoring and analysis to identify bottlenecks and recommendations to alleviate them. Roadmap for implementing long term improvement measures. Demonstration of selected short-term fixes (as per feasibility) as proof of concept.
+14. Major Retailer (Store and Online), New York USA: Planogram (POG) Optimization: Capture consumer buying behaviour at an item-cluster level, and using this information to improve store Planograms. The POG Optimization program will enable Merchants to create POGs built based on sales patterns for Clusters to increase the number of POGs.
+15. POGs created via POG Optimization will vary both the assortment (items can vary from one cluster to another) as well as the inventory (amount of the items on a POG can vary). Developed tools and processes to enable POG Creation, Rule creation and validation, Optimization, and Support Enhancements. Ensured optimal performance of all the components of POG Optimization, and also scalability to handle growth in business volumes.
+
+
+
+Certifications:
+1. Crash Course on Python - Google Career Certificates
+2. Introduction to Python: Absolute Beginner - Microsoft Certifications
+3. Introduction to Python: Fundamentals - Microsoft Certifications
+4. Logic and Computational Thinking - Microsoft Certifications
+5. Introduction to Machine Learning in Production - DeepLearning.AI
+6. Generate Synthetic Images with DCGANs in Keras - Coursera
+7. Image Super Resolution Using Autoencoders in Keras - Coursera
+8. Excel Skills for Business: Intermediate 1 - Macquarie University
+9. Excel Skills for Business: Essentials - Macquarie University
+10. Applied Scrum for Agile Project Management - University System of Maryland
+11. Leadership and Management for PM Practitioners in IT - University of Washington
+12. Portfolio Management, Governance, & the PMO - University of Washington
+13. Strategic Applications of IT Project & Program Management - University of Washington
+14. ITIL-4 Foundation Certificate in IT Service Management (ITIL-ITSM) - AXELOS Global Best Practice
+15. Unified Functional Testing 14.x Essentials - Micro Focus
+16. Performance Center 12.x Essentials - Micro Focus
+17. HP Certified Load Runner Specialist - HP
+
+
+Awards:
+1. Project Of the Year Award: Issued by Project Management Institute Singapore Chapter - Mar 2017: TitanOTC from Singapore Exchange won "Project of The Year Award" (#SPMI PoY) 2016-17 in Business & Information System Category.
+2. Honourable Mention in CIO 2012 Awards - Jan 2013: Barclays run CIO tech awards annually. My nomination showcases innovative automation platform.
+3. Static Code Scan Integration in Enterprise DevOps - Automated static code scan results-based deployment to production environment using enterprise DevOps platform with best-in-class DevOps practices. This guarantees consistent and standard code quality, security and coding practices across organisation.
+4. 100% Customer Satisfaction Index - J P Morgan Chase - Oct 2010: I received 100% customer satisfaction index in all projects.
+
+
+Publications, Memberships and Social Causes:
+1. O’Reilly Online Learning – May 2023 - Python Artificial Intelligence Machine Learning Data Science MLOps
+2. Singapore Computer Society (SCS) – July 2019 – Member (Subscriber Membership)
+3. Social Health Growth (SHG) – Volunteer – June 2019 – Economic Empowerment - Volunteer in Social Health Growth Singapore at McPherson center to help beneficiaries in economic empowerment and computer & financial literacy programs. Each program runs for 90 minutes.
+
+
+ADDITIONAL DETAILS
+1. Business Domains: Private and Retail Banking, Wealth and Fund Management, Confirmations, Trading and Executions, Clearing, Settlements, Reference Data, Reconciliations, Regulatory Reporting for OTC and Clearing, Collateral Management, E-commerce and automated taxation system and Consulting Services. 
+2. Automations: Database, API, Middleware, Services, UI and MS Excel
+3. Tools: Ansible, Jenkins, Cucumber, Jest, JUnit, Pytest, REST Assured, JMeter, HP LoadRunner and Performance Centre, Bitbucket, JIRA, Confluence, SonarQube, Docker and Git
+4. Databases: MS SQL and Oracle
+5. Trading Protocols: FIX
+6. Trading tools: Nasdaq suite (GENIUM, CO, MPA and PD)
+7. APls: Rest API, FAST and Streaming technologies
+8. Monitoring: Unix and Linux platforms, Splunk, KIBANA (Elastic/Logstash ELK) and profiler
+9. IDEs: IntelliJ and Visual Studio Code
+10. Middleware: TIBCO PMC (TIBCO Spotfire, TIBCO Designer) and IBM MQ
+
+**END OF DOCUMENT**

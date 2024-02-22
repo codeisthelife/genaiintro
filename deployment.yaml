@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: resume-qa-deployment
+spec:
+  replicas: 1 # Adjust scaling if needed
+  selector:
+    matchLabels:
+      app: resume-qa
+  template:
+    metadata:
+      labels:
+        app: resume-qa
+    spec:
+      containers:
+      - name: resume-qa
+        image: your-dockerhub-username/resume-qa-app:latest
+        ports:
+        - containerPort: 8000 
+        resources:
+          requests:
+            memory: "256Mi"  # Example: Request 256 MB of memory
+            cpu: "500m"      # Example: Request half a CPU core 
+          limits:
+            memory: "512Mi"  # Example:  Limit to 512 MB of memory
+            cpu: "1"         # Example: Limit to one CPU core 
+# Add resource limits if needed

@@ -1,0 +1,22 @@
+FROM python:3.12.2-slim 
+# Use an appropriate base image
+
+WORKDIR /app # I typically use /app
+
+# Install system-level dependencies (if you have any)
+RUN apt-get update && apt-get install -y \
+   <dependency1> \
+   <dependency2>  # Example:  swig 
+
+# Copy dependency and code files 
+COPY requirements.txt ./
+COPY ingest_data.py app.py query_data.py cli_app.py ./
+
+# Install dependencies
+RUN pip install -r requirements.txt 
+
+# Expose the port used by your Gradio app
+EXPOSE 8000
+
+# Define the command to start the application
+CMD ["python", "app.py"] 
