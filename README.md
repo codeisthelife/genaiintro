@@ -43,7 +43,8 @@ High-Level Steps: I won’t go into complete production grade setup (comes with 
 
 1. Dockerfile (Dockerfile)
     ```
-    FROM python:3.12.2-slim # Use an appropriate base image
+    FROM python:3.12.2-slim 
+    # Use an appropriate base image
 
     WORKDIR /app # I typically use /app
 
@@ -63,7 +64,7 @@ High-Level Steps: I won’t go into complete production grade setup (comes with 
     EXPOSE 8000
 
     # Define the command to start the application
-    CMD ["python", "app.py"]
+    CMD ["python", "app.py"] 
     ```
 
 2. Build the Docker Image
@@ -88,23 +89,31 @@ a. Deployment (deployment.yaml)
     apiVersion: apps/v1
     kind: Deployment
     metadata:
-    name: resume-qa-deployment
+        name: resume-qa-deployment
     spec:
-    replicas: 1  # Adjust for scaling if needed
-    selector:
-        matchLabels:
-        app: resume-qa
-    template:
-        metadata:
-        labels:
-            app: resume-qa
-        spec:
-        containers:
-        - name: resume-qa
-            image: your-dockerhub-username/resume-qa-app:latest
-            ports:
-            - containerPort: 8000 
-```
+        replicas: 1 # Adjust scaling if needed
+        selector:
+            matchLabels:
+                app: resume-qa
+        template:
+            metadata:
+                labels:
+                    app: resume-qa
+            spec:
+                containers:
+                - name: resume-qa
+                image: your-dockerhub-username/resume-qa-app:latest
+                ports:
+                - containerPort: 8000 
+                resources:
+                    requests:
+                        memory: "256Mi"  # Example: Request 256 MB of memory
+                        cpu: "500m"      # Example: Request half a CPU core 
+                    limits:
+                        memory: "512Mi"  # Example:  Limit to 512 MB of memory
+                        cpu: "1"         # Example: Limit to one CPU core 
+    # Add resource limits if needed
+    ```
 b. Service (service.yaml)
 
     ```
