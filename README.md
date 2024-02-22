@@ -42,6 +42,7 @@ High-Level Steps: I won’t go into complete production grade setup (comes with 
 5.	Deploy to Kubernetes
 
 **Dockerfile (Dockerfile)**
+
     ```
     FROM python:3.12.2-slim 
     # Use an appropriate base image
@@ -68,12 +69,14 @@ High-Level Steps: I won’t go into complete production grade setup (comes with 
     ```
 
 **Build the Docker Image**
+
     ```
     docker build -t resume-qa-app:latest .
     ```
 Replace resume-qa-app:latest with any desired image name and tag.
 
 **Push the Image to a Container Registry**
+
 •	Choices: Docker Hub, AWS ECR, Google Container Registry, etc.
     •	Log in to chosen registry.
     •	Example (Docker Hub): 
@@ -83,6 +86,7 @@ Replace resume-qa-app:latest with any desired image name and tag.
     ```
 
 **Kubernetes Manifests**
+
 a. Deployment (deployment.yaml)
 
     ```
