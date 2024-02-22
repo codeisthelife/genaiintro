@@ -41,7 +41,7 @@ High-Level Steps: I won’t go into complete production grade setup (comes with 
 4.	Write Kubernetes Deployment and Service Manifests
 5.	Deploy to Kubernetes
 
-1. Dockerfile (Dockerfile)
+**Dockerfile (Dockerfile)**
     ```
     FROM python:3.12.2-slim 
     # Use an appropriate base image
@@ -67,13 +67,13 @@ High-Level Steps: I won’t go into complete production grade setup (comes with 
     CMD ["python", "app.py"] 
     ```
 
-2. Build the Docker Image
+**Build the Docker Image**
     ```
     docker build -t resume-qa-app:latest .
     ```
 Replace resume-qa-app:latest with any desired image name and tag.
 
-3. Push the Image to a Container Registry
+**Push the Image to a Container Registry**
 •	Choices: Docker Hub, AWS ECR, Google Container Registry, etc.
     •	Log in to chosen registry.
     •	Example (Docker Hub): 
@@ -82,7 +82,7 @@ Replace resume-qa-app:latest with any desired image name and tag.
     docker push your-dockerhub-username/resume-qa-app:latest 
     ```
 
-4. Kubernetes Manifests
+**Kubernetes Manifests**
 a. Deployment (deployment.yaml)
 
     ```
@@ -130,7 +130,7 @@ b. Service (service.yaml)
         targetPort: 8000
     ```
 
-5. Deploy to Kubernetes
+**Deploy to Kubernetes**
 
     ```
     kubectl apply -f deployment.yaml
